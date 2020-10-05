@@ -24,4 +24,13 @@
         android:textAllCaps="false"
         android:textSize="18sp" />
 
+    <Button
+        android:id="@+id/btn_3"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="20dp"
+        android:text="Fragment 与 Activity 之间的通信"
+        android:textAllCaps="false"
+        android:textSize="18sp" />
+
 </LinearLayout>
