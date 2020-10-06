@@ -33,4 +33,22 @@
         android:textAllCaps="false"
         android:textSize="18sp" />
 
+    <Button
+        android:id="@+id/btn_4"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="20dp"
+        android:text="简易新闻实例（适配手机与 Pad）"
+        android:textAllCaps="false"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/btn_5"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="20dp"
+        android:text="Fragment 与 Activity 的最佳通信方式"
+        android:textAllCaps="false"
+        android:textSize="16sp" />
+
 </LinearLayout>

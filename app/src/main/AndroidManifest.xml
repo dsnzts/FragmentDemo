@@ -9,7 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Index3Activity"/>
+        <activity android:name=".Index4Activity"></activity>
+        <activity android:name=".news.NewsContentActivity" />
+        <activity android:name=".news.NewsActivity" />
+        <activity android:name=".Index3Activity" />
         <activity android:name=".Index2Activity" />
         <activity android:name=".IndexActivity" />
         <activity android:name=".MainActivity">
